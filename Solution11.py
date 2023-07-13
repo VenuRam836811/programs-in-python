@@ -38,4 +38,4 @@ Required quantity of carpet is 1000 sqm
 a=int(input())
 b=int(input())
 print("Required length is",(a+b)*2,"m")
-print("Required quantity of carpet is",a*b,"m")
+print("Required quantity of carpet is",a*b,"sqm")
